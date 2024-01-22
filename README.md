@@ -1,4 +1,4 @@
-*LEARNING*
+*LEARNING* <br>
 *also have a projects.txt file to practice numpy and matplotlib*
 # Introducing myself to Data Science, ML and AI
 
