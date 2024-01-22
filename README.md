@@ -1,3 +1,4 @@
+*learning*
 # Introducing myself to Data Science, ML and AI
 
 ## Data Science
