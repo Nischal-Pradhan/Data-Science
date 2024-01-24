@@ -5,7 +5,7 @@
 
 # Introducing myself to Data Science, ML and AI
 
-## Data Science
+## DATA SCIENCE 
 ##### Getting started with NumPy and Matplotlib
 
 - LINK: https://realpython.com/numpy-tutorial/#choosing-numpy-the-benefitshttps://realpython.com/numpy-tutorial/#choosing-numpy-the-benefits
