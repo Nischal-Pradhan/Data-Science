@@ -3,7 +3,7 @@
 
 ---
 
-# Introducing myself to Data Science, ML and AI
+# Introduction to Data Science, ML and AI
 
 ## DATA SCIENCE 
 ##### Getting started with NumPy and Matplotlib
