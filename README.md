@@ -1,5 +1,5 @@
 *LEARNING* <br>
-*also contains a 'projects.txt' file to practice **numpy and matplotlib**.*
+*also contains a **'projects.txt'** file to practice **numpy and matplotlib**.*
 
 ---
 
