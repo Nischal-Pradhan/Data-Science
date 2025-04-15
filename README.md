@@ -1,5 +1,5 @@
 *LEARNING* <br>
-*also have a projects.txt file to practice numpy and matplotlib*
+*also contains a 'projects.txt' file to practice **numpy and matplotlib**.*
 
 ---
 
@@ -17,5 +17,5 @@
 
 ### ***Matplotlib***
 > Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
-matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
+matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB. Each pyplot function changes a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
 
