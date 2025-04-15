@@ -3,9 +3,9 @@
 
 ---
 
-# Introduction to Data Science, ML and AI
+# Introduction to AI and Data Science
 
-## DATA SCIENCE 
+## Data Analysis
 ##### Getting started with NumPy and Matplotlib
 
 - LINK: https://realpython.com/numpy-tutorial/#choosing-numpy-the-benefitshttps://realpython.com/numpy-tutorial/#choosing-numpy-the-benefits
